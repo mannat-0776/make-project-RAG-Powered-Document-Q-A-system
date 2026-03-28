@@ -183,4 +183,4 @@ docmind/
 
 ---
 
-Made with ⬛ by [Mannat](https://github.com/yourusername)
+Made with ⬛ by [Mannat](https://github.com/mannat-0776)
